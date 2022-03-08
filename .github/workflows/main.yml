@@ -5,7 +5,6 @@
 name: SwiftLint
 
 on: [push, pull_request]
-
 jobs:
   SwiftLint--strict:
     runs-on: ubuntu-latest
